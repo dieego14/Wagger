@@ -22,7 +22,7 @@ const Navbar = () => {
           ""
         )}
       </h1>
-      <ul className="text-black flex mr-10 text-xl">
+      <ul className="text-black flex mr-10 text-xl ml-7">
         <li className="p-4">
           <Link to="/About"> About </Link>
         </li>
