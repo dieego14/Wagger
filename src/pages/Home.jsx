@@ -19,8 +19,9 @@ const Home = () => {
               {/* Input */}
               <div className="mt-1">
               <input type="text" id="fname" name="fname" required
-               className="w-full border border-gray-300 px-3 py-2 rounded-lg
-               shadow-sm"/>
+               className="w-full border border-gray-300 text-black px-3 py-2 rounded-lg
+               shadow-sm focus:outline-none focus:border-indigo-500 focus:ring-1
+               focus:ring-indigo-500"/>
               </div>
             </form>
           </div>
